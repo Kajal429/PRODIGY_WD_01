@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-This is Responsive Landing Page end to end project.
+This is a Responsive Landing Page end to end project.
