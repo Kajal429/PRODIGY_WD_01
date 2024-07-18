@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-This is a power WD end to end project.
+This is Responsive Landing Page end to end project.
